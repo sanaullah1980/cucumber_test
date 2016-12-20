@@ -6,4 +6,5 @@ source "http://rubygems.org"
   gem "watir-webdriver"
   gem "rake"
   gem 'page-object'
+  gem 'require_all'
 

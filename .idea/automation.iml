@@ -13,6 +13,7 @@
     <orderEntry type="library" scope="PROVIDED" name="page-object (v1.1.1, ruby-1.9.3-p551) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="page_navigation (v0.10, ruby-1.9.3-p551) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v12.0.0, ruby-1.9.3-p551) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="require_all (v1.3.3, ruby-1.9.3-p551) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.2.0, ruby-1.9.3-p551) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.46.2, ruby-1.9.3-p551) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="watir-webdriver (v0.9.1, ruby-1.9.3-p551) [gem]" level="application" />
