@@ -5,3 +5,5 @@ source "http://rubygems.org"
 # gem "rails"
   gem "watir-webdriver"
   gem "rake"
+  gem 'page-object'
+
